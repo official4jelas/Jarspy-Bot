@@ -11,14 +11,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.rowner = [
-  ['6282148864989', 'Jarsépay', true]
+  ['6285766450735', 'botzz', true]
 ]
 
 global.owner = [
-  ['6282148864989', 'Jarsépay', true]
+  ['6285766450735', 'botzz', true]
 ]
-global.mods = ['']
-global.prems = ['6282148864989', '6287763792950'] // add it manually for permanent premium users
+global.mods = ['6285766450735']
+global.prems = ['6285766450735'] // add it manually for permanent premium users
 
 global.idgc = '120363041509832346@g.us' // you must fill your group id first before running this script
 
@@ -44,13 +44,13 @@ global.APIKeys = {
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.namaowner = 'Jarsépay' // owner name
-global.nomorowner = '6282148864989' // owner number
-global.namabot = 'Jarspy' // bot name
+global.namaowner = 'botzz' // owner name
+global.nomorowner = '6285766450735' // owner number
+global.namabot = 'botzz' // bot name
 global.nomorbot = '6287841972915' // bot number
 
-global.wmtitle = 'Jarspy Bot' // title watermark is at the top
-global.wmbody = 'B y  J a r s é p a y' // body watermark is under the title
+global.wmtitle = 'Botzz' // title watermark is at the top
+global.wmbody = 'B y  b o t z z' // body watermark is under the title
 global.thumbs = 'https://telegra.ph/file/476dabd35c800091e0357.jpg' // is this the main thumbnail
 // see the example use here https://telegra.ph/file/2042154c2ad625bb23c84.jpg
 
@@ -61,7 +61,7 @@ global.sdc = 'https://s.id/aeonnixity' // your discord server (optional)
 global.sid = 'https://s.id/jarspy' // change it to anything, must be a https://... link
 
 // sticker packname and author name
-global.packname = 'Contact Support: +62 821-4886-4989'
+global.packname = 'botzz'
 global.author = 'By Jarsépay'
 
 global.fsizedoc = '99999999999999'
