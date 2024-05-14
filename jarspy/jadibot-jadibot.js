@@ -159,7 +159,7 @@ jarspy.tags = ['jadibot'];
 jarspy.command = /^jadibot$/i;
 
 jarspy.limit = true;
-jarspy.private = true;
-jarspy.rowner = true;
+jarspy.private = false;
+jarspy.rowner = false;
 
 export default jarspy;
