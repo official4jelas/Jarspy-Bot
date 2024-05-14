@@ -22,8 +22,8 @@ global.prems = ['6285766450735'] // add it manually for permanent premium users
 
 global.idgc = '120363041509832346@g.us' // you must fill your group id first before running this script
 
-global.lolkey = 'GataDios'
-global.lann = 'APIKEYMU' // register to https://api.betabotz.eu.org
+global.lolkey = 'Gata_Dios'
+global.lann = 'oD4wgh58' // register to https://api.betabotz.eu.org
 
 global.APIs = {
   nrtm: 'https://nurutomo.herokuapp.com',
